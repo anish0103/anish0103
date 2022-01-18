@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Anish Patel </a></h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/anish-patel-4090081ab/" target="_blank"> Anish Patel </a></h1>
 <h3 align="center">A Passionate MERN Stack Developer</h3>
 
 - 🌱 I’m currently learning **React, MongoDB, Node JS, Express JS**
