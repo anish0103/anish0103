@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/anish-patel-4090081ab/" target="_blank"> Anish Patel </a></h1>
 <h3 align="center">A Passionate MERN Stack Developer</h3>
 
-- 🌱 I’m currently learning **React, MongoDB, Node JS, Express JS**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 - 💬 Ask me about **Web Development**
 
@@ -23,6 +23,7 @@
 <img alt="Express" src="https://img.shields.io/badge/-Express-blue?style=for-the-badge&logo=express"/> 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
+<img alt="React Native" src="https://img.shields.io/badge/reactnative-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </div>
 
 
