@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/anish-patel-4090081ab/" target="_blank"> Anish Patel </a></h1>
-<h3 align="center">A Passionate MERN Stack Developer</h3>
+<h3 align="center">A Passionate Full Stack Web Developer And Data Analyst</h3>
 
 ## About Me 
 👨‍💻 Check out my personal portfolio : **<a href="https://anishpatel.netlify.app/" target="_blank">Portfolio</a>** 
@@ -7,11 +7,11 @@
 ```js
 const Person Me = {
     name: "Anish Patel",
-    age: 21,
+    age: 22,
     nationality: "Indian",
     known Languages: ["React Js", "Node Js", "Express Js", "MongoDB", "Tailwind CSS", 
-    ".NET Core", ".NET Framework", "SQL Server", "Bootstrap", "React Native", 
-    "Github", "HTML", "CSS", "JS"]
+    ".NET Core", ".NET Framework", "SQL Server", "Bootstrap", "React Native", "Power BI",
+    "Python", "Pandas", "Github", "HTML", "CSS", "JS"]
 }
 ```
 
@@ -33,7 +33,10 @@ const Person Me = {
 <img alt=".NET Framework" src="https://img.shields.io/badge/.NET%20Framework-%234e2acd.svg?style=for-the-badge&logo=.net"/>
 <img alt="Git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=appveyor"/> 
-<img alt="jQuery" src="https://img.shields.io/badge/jQuery-%23183252.svg?style=for-the-badge&logo=jquery"/> 
+<img alt="jQuery" src="https://img.shields.io/badge/jQuery-%23183252.svg?style=for-the-badge&logo=jquery"/>
+<img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-%23323330.svg?style=for-the-badge&logo=powerbi"/> 
+<img alt="Python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/> 
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23430098.svg?style=for-the-badge&logo=pandas"/> 
 </div>
 
 ## Databases
